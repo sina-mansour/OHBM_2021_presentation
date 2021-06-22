@@ -3,7 +3,7 @@
 This repository hosts the poster, slides, and a short presentation of my OHBM 2021 poster presentation on "Challenges and impacts of spatial smoothing on high-resolution structural connectomes"
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/cQiOAMskj3c)
+[![Watch the video](https://sina-mansour.github.io/OHBM_2021_presentation/poster.jpg)](https://youtu.be/cQiOAMskj3c)
 
 
 Feel free to check the following material for more information:
