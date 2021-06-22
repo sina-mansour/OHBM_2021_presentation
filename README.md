@@ -7,9 +7,6 @@ Feel free to check the following material for more information:
 
 | content | URL |
 | ------- | --- |
-|
-
-[![badge](https://img.shields.io/static/v1?label=LABEL&message=MESSAGE&color=green)]()
-
+| Interactive slides | [![badge](https://img.shields.io/static/v1?label=made_with&message=SOZI&color=blue)](https://sina-mansour.github.io/OHBM_2021_presentation/) |
 
 
