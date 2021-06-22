@@ -1,7 +1,10 @@
-# OHBM 2021 poster presentation
+# Challenges and impacts of spatial smoothing on high-resolution structural connectomes
 
-This repository hosts the poster, slides, and a short presentation of my OHBM 2021 poster presentation on "Challenges and impacts of spatial smoothing on high-resolution structural connectomes"
+### Sina Mansour L., Caio Seguin, Vanessa Cropley, Robert E. Smith, Andrew Zalesky
 
+#### *OHBM 2021*
+
+This repository hosts the poster, slides, and a short presentation of my OHBM 2021 poster presentation:
 
 [![Watch the video](https://sina-mansour.github.io/OHBM_2021_presentation/poster.jpg)](https://youtu.be/cQiOAMskj3c)
 
